@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	OW6RAdACZhALhJwa5jDj6g4JVqPxnKN5PZWaP0l5XGI-1749671745199-0.0.1.1-604800000
+www.paybyphone.com	TRUE	/	FALSE	1999999999	SameSite	None
+

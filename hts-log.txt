@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Jun 2025 20:54:42 at https://www.paybyphone.com/drivers/why-paybyphone +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.paybyphone.com/drivers/why-paybyphone -O1 "C:\desktop\parkbyphone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:55:01	Error: 	"Not Found" (404) at link https://www.paybyphone.com/drivers/map (from https://www.paybyphone.com/drivers/why-paybyphone)
+20:55:01	Error: 	"Not Found" (404) at link https://www.paybyphone.com/drivers/stories?category=Case+study (from https://www.paybyphone.com/drivers/why-paybyphone)
+20:55:01	Error: 	"Not Found" (404) at link https://www.paybyphone.com/drivers/stories?category=Current+campaign (from https://www.paybyphone.com/drivers/why-paybyphone)
+20:55:01	Error: 	"Not Found" (404) at link https://www.paybyphone.com/drivers/stories?category=Blog (from https://www.paybyphone.com/drivers/why-paybyphone)
+20:55:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:01	Warning: 	Moved Permanently for https://www.paybyphone.com/drivers/schema.org/
+20:55:01	Warning: 	File has moved from https://www.paybyphone.com/drivers/schema.org/ to https://www.paybyphone.com/drivers/schema.org
+20:55:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/d (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:23	Warning: 	Retry after error 502 () at link https://www.paybyphone.com/drivers/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/schema.org (from https://www.paybyphone.com/drivers/schema.org/)
+20:55:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:23	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/d (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.paybyphone.com/drivers/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"" (502) after 2 retries at link https://www.paybyphone.com/drivers/a (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.paybyphone.com/drivers/POST (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Warning: 	Retry after error 502 () at link https://www.paybyphone.com/drivers/schema.org (from https://www.paybyphone.com/drivers/schema.org/)
+20:55:45	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.paybyphone.com/drivers/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.paybyphone.com/drivers/d (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.paybyphone.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.paybyphone.com/drivers/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.paybyphone.com/drivers/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+20:55:45	Error: 	"" (502) after 2 retries at link https://www.paybyphone.com/drivers/schema.org (from https://www.paybyphone.com/drivers/schema.org/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 84 links scanned, 54 files written (13027457 bytes overall) [11323942 bytes received at 179745 bytes/sec], 2539453 bytes transferred using HTTP compression in 21 files, ratio 21%, 2.7 requests per connection
+(12 errors, 18 warnings, 0 messages)
